@@ -1,7 +1,7 @@
 {
     "ads" : [
         {
-            "demo" : "false",
+            "demo" : "true",
             "activate_ads" : "false",
             "activate_inter" : "off",
             "activate_banner" : "off",
@@ -39,7 +39,7 @@
             "score_rating_reward" : 5,
 
             "orientation": "portrait",
-            "game_link": "https://www.inattv.app/",
+            "game_link": "https://www.inattv.app/#About_Inat_TV_Pro",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
