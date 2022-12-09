@@ -82,47 +82,11 @@
     
     "games" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "name" : "İnat Tv Pro",
+            "ico" : "https://www.inattv.app/wp-content/uploads/2022/04/iNatTV-a-300x300.webp",
+            "link" : "https://www.inattv.app/",
             "cat" : "Overall",
             "orientation" : "1"
-        },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Strategies",
-            "orientation" : "0"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Soccer",
-            "orientation" : "1"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Arcade",
-            "orientation" : "1"
-        },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Puzzles",
-            "orientation" : "0"
-        },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Hypercasual",
-            "orientation" : "1"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Arcade",
-            "orientation" : "0"
         }
 
     ],
@@ -216,11 +180,11 @@
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Do Not Bet While in a Hurry",
-            "img1" : "https://nostrabet.com/static/imgs-volume/how-to-win-in-1xbet-en.jpg",
+            "name" : "Hakkında İnat TV Uygulama",
+            "img1" : "https://modsuper.com/uploads/2022/3/inat-tv-ios-3.jpg",
             "img2" : "",
-            "part1" : "To not bet in a hurry means to take enough time to think about your wager. It is important to have time to think about the potential consequences of a bet and the size of it.",
-            "part2" : "Make sure to have enough time for placing bets at 1xbet sportsbook and casino. Do not gamble while at work or during breaks, because this limited time might rush your gambling decisions. It is better to gamble at 1xbet in your spare time."
+            "part1" : "İnat TV insanlara en iyi canlı yayınları, dizileri ve filmleri izletmeyi hedeflemiş bir canlı tv platformudur. Uygulama isminin inat olmasındaki en büyük sebep ise her türlü engelleme ve tekniksel sorunlara rağmen sizlere en iyi yayını sunmak için inat etmemizden kaynaklanmaktadır. İnatla kesintisiz yayın izletmek için uğraşıyoruz ve İnatla bu yayınlar ücretsiz olacak diyoruz. Tabiki netflix, blutv, d-smart ve digitürk paketleri almanızı öneriyoruz lakin herkes bu gibi şeylere bütçe ayırmak istemiyor. Burada ise devreye inat TV giriyor. UYGULAMAMIZI KESİNLİKLE ARKADAŞLARINIZLA PAYLAŞMALISINIZ. BENCE BUNA DEĞER 🙂 İYİ SEYİRLER.",
+            "part2" : "Bildiğimiz gibi, yetkisiz bir platformda yayınlanabilir İçeriği İzlemek, Düşük’e karşıdır veya Korsanlık olarak adlandırılır. İnat Tv’nin Resmi Yetkili Olup Olmadığını Bilmiyoruz. Bu uygulamayı çeşitli Kamu malı üzerinde bulduk, bu yüzden İnatTV Pro Apk indirme linklerini arayan kişiler için paylaşıyoruz."
         },
         {
             "url" : "",
@@ -238,88 +202,88 @@
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Do Not Hesitate to Request a Payout",
-            "img1" : "https://nostrabet.com/static/imgs-volume/how-to-win-in-1xbet-en.jpg",
+            "name" : "Live TV Channels",
+            "img1" : "https://image.roku.com/blog/wp-content/uploads/2020/07/LiveTVChannelGuide.jpg",
             "img2" : "",
-            "part1" : "Not hesitating to submit a withdrawal request means to regularly ask for the casino to pay you out any winnings you may have on your balance.",
-            "part2" : "It is important to cash out on a regular basis because that eliminates the possibility of risking your winnings and betting them away. It also contributes to your feeling of achievement to always receive regular payouts.\n Make sure to come back to your account once a week or once in two weeks, go to the cashier and submit a withdrawal request. Establish a schedule for your betting sessions and your payouts at 1xbet."
+            "part1" : "İnat Tv, çok geniş bir Canlı TV Kanalları Koleksiyonu koleksiyonuna sahiptir. Akıllı telefonunuzda her zaman her yerde Canlı TV izleyin Tamamen Ücretsiz.",
+            "part2" : ""
         },
         {
             "url" : "",
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Learn by Observing Other Players",
-            "img1" : "https://nostrabet.com/static/imgs-volume/how-to-win-in-1xbet-en.jpg",
+            "name" : "Bedava Filmler",
+            "img1" : "https://mediatrend.mediamarkt.com.tr/wp-content/uploads/2020/06/ucretsizfilmizlemesiteleri_06-e1592514336181.png",
             "img2" : "",
-            "part1" : "To watch and learn from other players means to pick up tricks for winning at 1xbet from fellow gamblers who make their gaming sessions public via video. You can find players to watch on YouTube or streaming platforms such as Twitch. \n It is important to watch and learn from good players because you can gain knowledge from someone else’s example. You can pick up ideas, advice, tactics for different betting situations you may encounter while trying to win at 1xbet.",
-            "part2" : "Make sure to be an active follower of popular players who specialize in 1xbet bets you wish to make, whether it is for sports or casino. Especially if you are a beginner at betting on 1xbet, watching experienced bettors make their bets will help you learn a lot about how to win at 1xbet."
+            "part1" : "Temiz TV’lerin Devasa Film Koleksiyonu’nun yardımıyla akıllı telefonunuzda Yüzlerce film izleyin. Aksiyon, Bilimkurgu, Romantik, vb. gibi her türlü filmi bulacaksınız.",
+            "part2" : ""
         },
         {
             "url" : "",
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Use Gambling Statistics",
-            "img1" : "https://nostrabet.com/static/imgs-volume/how-to-win-in-1xbet-en.jpg",
+            "name" : "TV Series",
+            "img1" : "https://media.gq.com/photos/5df5a3794e7a380009b83bbd/16:9/w_2560%2Cc_limit/BestShows.jpg",
             "img2" : "",
-            "part1" : "Using gambling statistics means using tools provided to understand your plays better and decide on your next bets with a knowledgeable approach. It means keeping track of your bets and their success rates, as well as informing yourself about the odds for the 1xbet sports event or the house edge for the 1xbet casino game you are playing.\nIt is important to know the gambling statistics surrounding your betting session because this will help you establish your expectations and learn from past bets. It can also help knowing player stats, past match results, highlights, lineups and similar info.",
-            "part2" : "Make sure to use all the tools that are at your disposal, view your betting history, check your previous betslips and read relevant information about the game or sports match you are betting on at 1xbet."
+            "part1" : "Netflix’ten Popüler Web Dizileri veya TV Dizileri, Amazon Prime uygulamaya eklendi, O halde en sevdiğiniz programın keyfini şimdi Ücretsiz olarak çıkarın ve indirin.",
+            "part2" : ""
         },
         {
             "url" : "",
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Follow Competitor Game Strategy",
-            "img1" : "https://nostrabet.com/static/imgs-volume/how-to-win-in-1xbet-en.jpg",
+            "name" : "Arabelleğe Alma Yok",
+            "img1" : "https://static.wixstatic.com/media/53b356_ff1429db82e1482189e1e1ca89106634~mv2.gif",
             "img2" : "",
-            "part1" : "To follow the strategy of the competitors means that you should be familiar with the tactics of the team your favorite is playing against. Knowing the strengths and weaknesses of the team your selections are facing is just as important as knowing the performance of the team you root for.",
-            "part2" : "It is important to know all the teams and players well, to keep track of their potential and achievements, so as to know how to adjust your betting decisions accordingly. It is not enough to only be familiar with the team or player you are betting on."
+            "part1" : "Herhangi bir videoyu oynatmak veya herhangi bir TV Kanalını yayınlamak için sadece 4G İnternet bağlantısına ihtiyacınız var. Geniş Hedef Kitle için içerik sunduğundan artık Arabelleğe Alma yok.",
+            "part2" : ""
         },
         {
             "url" : "",
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Calculate the Possibilities Properly",
-            "img1" : "https://nostrabet.com/static/imgs-volume/how-to-win-in-1xbet-en.jpg",
+            "name" : "Ads Free",
+            "img1" : "https://www.online-tech-tips.com/wp-content/uploads/2019/10/block-ads.png",
             "img2" : "",
-            "part1" : "To calculate the possibilities in the 1xbet sports betting section means that you have to distinguish odds from probability and calculate them properly in order to set the correct value of your bet. While probability represents the likelihood of something happening, the odds represent the ratio of wanted results to unwanted outcomes.",
-            "part2" : "It is important to acquire the fundamental skills of being able to calculate odds and probabilities if you want to become a successful player at 1xbet sportsbook. By making the correct calculation, you get the percentage of likelihood that the outcome you want will occur. It will help you decide if the bet is worth making or not.\nTo properly calculate the odds and probabilities at 1xbet you should learn the formulas and equations for this or use online sports betting odds calculators."
+            "part1" : "İnat TV’nin ücretsiz sürümünde bazı Google Reklamları bulunur, ancak web sitemizden İnat TV Pro apk indirirseniz, artık Reklamları görmeyeceksiniz.",
+            "part2" : ""
         },
         {
             "url" : "",
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Learn About Every Game Type",
-            "img1" : "https://nostrabet.com/static/imgs-volume/how-to-win-in-1xbet-en.jpg",
+            "name" : "Çoklu Dil",
+            "img1" : "https://t3.ftcdn.net/jpg/04/03/21/92/360_F_403219238_WbTrk5rXvMLDRESmZZ1FK7o1abHC7Y7T.jpg",
             "img2" : "",
-            "part1" : "To learn about all game types at the 1xbet website means to become familiar with how all game types work.\nWhile this may seem unnecessary and you may think that learning about one game type is enough, it is important to learn as much as you can about all available game types at 1xbet because this will improve your understanding of sports betting online at 1xbet. It will also help you find precisely the types of games and bets that suit you.",
-            "part2" : "You can learn about the games and sports betting options at 1xbet by visiting the 1xbet website and other sources on the internet that contain game descriptions, feature explanations, bet type summaries and strategy guidelines."
+            "part1" : "Bu uygulamayı Çoklu Dil desteği için yapan geliştiriciye teşekkürler. türkçe, rusya, fransa ve daha pek çok dilde içeriği var…",
+            "part2" : ""
         },
         {
             "url" : "",
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Take Advice from The Most Successful Gamblers",
-            "img1" : "https://nostrabet.com/static/imgs-volume/how-to-win-in-1xbet-en.jpg",
+            "name" : "Çözüm",
+            "img1" : "https://modsuper.com/uploads/2022/3/inat-tv-ios-3.jpg",
             "img2" : "",
-            "part1" : "To take advice from the most successful gamblers is to refer to the teachings and guidance provided by well-known, professional, accomplished gamblers.\nJust like in any other trait, learning how to win in gambling at 1xbet requires advice from people who are more successful and have more acclaim in this aspect. It is important to take note of their advice and apply it.",
-            "part2" : "To listen to what the most successful gamblers have to say about winning in online casinos like 1xbet, you should look for podcasts and tutorials online featuring prominent gamblers."
+            "part1" : "Umarım İnat TV Pro Apk’yi sitemizden başarıyla indirmişsinizdir. Bu, Canlı TV Kanallarını ve Diğer Videoları izlemek için çok kullanışlı bir uygulamadır. Bu yasadışı bir uygulama olabilir, bu yüzden riski size ait olmak üzere kullanın. Bu uygulamanın geliştiricisi değiliz, sadece İnat APK Dosyasını arayanlar için paylaşıyoruz.",
+            "part2" : "Web sitemizi ziyaret ettiğiniz için teşekkürler, arkadaşlarınızla paylaşmayı unutmayın."
         },
         {
             "url" : "",
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Use Logic to Beat 1xbet Games",
-            "img1" : "https://nostrabet.com/static/imgs-volume/how-to-win-in-1xbet-en.jpg",
+            "name" : "İnat TV Pro APK",
+            "img1" : "https://modsuper.com/uploads/2022/3/inat-tv-ios-3.jpg",
             "img2" : "",
-            "part1" : "To use logic to win in games at the 1xbet website means to think about your bets and apply common sense.\nIt is important to be able to make bets that are reasonable and logically justified and not make bets while being carried away by emotion or chasing past losses.",
-            "part2" : "To use logic when you make bets at 1xbet, make sure to consider all objective factors that are for and against your wager. Make sure your every bet is well thought-out and makes sense based on the odds, the sports match, the casino game or other variables."
+            "part1" : "İnternet artık bir şişe su almaktan daha kolay. Bu, 2022 Dünya Çapında Web/İnternet’in Keşfidir, Herkesin yüksek hızlı İnternet Bağlantısına sahip bir Akıllı Telefonu vardır. Eğitimden Eğlenceye kadar her şey bir akıllı telefonla yapılabilir. YouTube, Netflix, Amazon Prime gibi uygulamalar, Eğlence seçimimizi ve kullanıcılar için devasa bir platformu tüketmemize izin veriyor. Şimdi listeye İnat TV Apk olan başka bir Uygulama ekleyin.",
+            "part2" : ""
         }  
     ]
 }
