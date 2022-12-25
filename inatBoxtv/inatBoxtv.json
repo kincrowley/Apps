@@ -1,9 +1,9 @@
 {
     "config" : [
         {
-            "int_interval" : 10,
+            "int_interval" : 4,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
 
@@ -27,7 +27,7 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "848723332843708_857750911940950",
+            "fan_ban": "848723332843708_867884530927588",
             "fan_native": "848723332843708_857751341940907",
             "fan_int": "848723332843708_857751221940919",
             
