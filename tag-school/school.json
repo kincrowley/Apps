@@ -1,0 +1,292 @@
+{
+    "config" : [
+        {
+            "int_interval" : 2,
+            "activate_ads" : "false",
+            "custom_banner" : "false",
+            "one_signal" : "291cdf9c-1e6e-4d84-a264-5d5afeff8622",
+            "network" : "fan",
+
+            "unity_game_id" : "5072995",
+            "unity_int" : "Interstitial_Android",
+            "unity_ban" : "Banner_Android",
+            
+            "admob_ban" : "ca-app-pub-2140134117650797/5043290187",
+            "admob_native" : "ca-app-pub-2140134117650797/4660146801",
+            "admob_int" : "ca-app-pub-2140134117650797/9138996607",
+
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-DEMO-native-i",
+            "yandex_int" : "R-M-DEMO-interstitial",
+
+            "iron_key": "168e4ab9d",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "848723332843708_867884530927588",
+            "fan_native": "848723332843708_857751341940907",
+            "fan_int": "848723332843708_857751221940919",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        }
+    ],
+    
+    "games" : [
+        {
+            "name" : "İnat Tv Pro",
+            "ico" : "https://www.inattv.app/wp-content/uploads/2022/04/iNatTV-a-300x300.webp",
+            "link" : "https://www.inattv.app/",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+
+    "custom" : [
+         {
+            "name" : "Look2 Movies and TV Shows",
+            "title" : "TV Shows",
+            "description" : "Download: Look2 Movies  for Movies and TV Shows",
+            "ico2" : "https://play-lh.googleusercontent.com/KvfJU8bpsnAFQIynkJUj4cjdnzuSTS0Zm_mb8hh00PsONDjvP5OCNy5Eh9PMjQU2cHMn=w526-h296",
+            "ico" : "https://play-lh.googleusercontent.com/XpaBvH2XA5JNQKvTfLQKCQLg5lq9j_xAzIa8HOxTPHR2xXFhyullqFSPhhdLovcjQhg=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.Look2Movies.seriesflixe"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+        },
+        {
+            "name" : "",
+            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
+        }
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "What is tag after school",
+            "img1" : "https://global.gamedaim.com/wp-content/uploads/2022/12/Tag-After-School-APK-7-1140x570.jpg",
+            "img2" : "",
+            "part1" : "Tag after school APK is a thrilling Android game that takes the classic childhood game of tag to new heights! Compete with friends or strangers online and unlock characters, power-ups, and levels as you outrun your opponents. With endless customization options available in this virtual playground anything can happen – so fasten your seatbelt for an epic adventure through Tag After School!",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "What makes tag after school unique?",
+            "img1" : "https://global.gamedaim.com/wp-content/uploads/2022/12/Tag-After-School-APK-4.jpg",
+            "img2" : "",
+            "part1" : "One of tag after school’s most unique features is its cartoonish graphics. The characters are colorful, expressive, and fun to watch as they tag each other around the map. Another great feature is the range of power-ups available in tag after school game mod apk. These can give players an edge over their opponents, such as increasing their tag speed or giving them the ability to tag multiple players at once.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Tag after school work gameplay",
+            "img1" : "https://global.gamedaim.com/wp-content/uploads/2022/12/Tag-After-School-APK-5.jpg",
+            "img2" : "",
+            "part1" : "The gameplay of tag after school is simple yet engaging. Players take control of one of several characters and attempt to tag other players while avoiding being tagged themselves. The map consists of various obstacles and power-ups, and players can use these to their advantage or disadvantage. As the game progresses, tag-related challenges are unlocked which players must complete in order to win the game.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Game including",
+            "img1" : "https://global.gamedaim.com/wp-content/uploads/2022/12/Tag-After-School-APK-6.jpg",
+            "img2" : "",
+            "part1" : "In tag after school game, you’ll find a variety of game modes to choose from. These include single-player missions, time attack mode, and even an online battle mode where you can play against other players around the world! There are also many different characters available to choose from with their own unique abilities and stats. Plus, tag after school comes with a range of customization options, allowing you to design your characters and the game map to suit your own style.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Arabelleğe Alma Yok",
+            "img1" : "https://static.wixstatic.com/media/53b356_ff1429db82e1482189e1e1ca89106634~mv2.gif",
+            "img2" : "",
+            "part1" : "Herhangi bir videoyu oynatmak veya herhangi bir TV Kanalını yayınlamak için sadece 4G İnternet bağlantısına ihtiyacınız var. Geniş Hedef Kitle için içerik sunduğundan artık Arabelleğe Alma yok.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Immersive Gameplay",
+            "img1" : "https://global.gamedaim.com/wp-content/uploads/2022/12/Tag-After-School-APK-3.jpg",
+            "img2" : "",
+            "part1" : "Tag After School Apk offers an immersive experience that allows you to fully immerse yourself in the life of Shota-Kun. As you make decisions on his behalf, you will be able to observe how it affects his relationship with others, his academic performance and more. You’ll also get a chance to explore different environments as the game progresses. With beautiful cinematic graphics and a rich storyline, Tag After School Apk will keep you on the edge of your seat with every decision.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "A Brief Synopsis",
+            "img1" : "https://global.gamedaim.com/wp-content/uploads/2022/12/Tag-After-School-APK-5.jpg",
+            "img2" : "",
+            "part1" : "In the most latest version of the Android sport Tag after School APK, Shota-Kun serves because the number one protagonist. Because it's far a recreation with a narrative focus, you may be given options with a purpose to have an effect at the manner the story unfolds. Shota-Kun avoids turning into involved in extracurricular sports every time possible. It is necessary for him to go to the abandoned group so that he may face his concerns. He can not go through the game without the help of the participant to be able to make the suitable selections and avoid being harm.",
+            "part2" : "The player could be required to navigate the many regions of the college and interact in communique with a wide variety of characters. The sport gives a practical revel in and boasts pinnacle-notch visuals all around. However, there's a possibility that the game consists of fabric geared closer to adults that isn't appropriate for children."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "How to Download",
+            "img1" : "https://i.ytimg.com/vi/QRZ3qzkMNSE/maxresdefault.jpg",
+            "img2" : "",
+            "part1" : "You can set up APKs on all modern versions of Android by using following those steps:",
+            "part2" : "You want to down load and set up the APK.\nNavigate to Settings-> Security-> Unknown Sources\nNavigate to the safety settings of your cellphone by means of going to the settings menu. Turn at the Install from Unknown Sources choice.\nNavigate to your down load folder using a document browser. Tap the APK file to begin the installation.\nYou may be unable to install a few apps because of compatibility issues, or the app can also nag you for the modern version of the Play Store before allowing you to use it. Only devices running Android versions older than Android Oreo can be used with this method."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Conclusion",
+            "img1" : "https://global.gamedaim.com/wp-content/uploads/2022/12/Tag-After-School-APK-3.jpg",
+            "img2" : "",
+            "part1" : "The awesome school simulation sport Tag After School APK download has a substantial quantity of both anxiety and feeling during the sport.",
+            "part2" : ""
+        }  
+    ]
+}
