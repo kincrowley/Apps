@@ -3,7 +3,7 @@
         {
             "int_interval" : 2,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "291cdf9c-1e6e-4d84-a264-5d5afeff8622",
             "network" : "fan",
 
@@ -135,12 +135,12 @@
 
     "custom" : [
           {
-            "name" : "Pikashow Movies and TV Shows",
-            "title" : "TV Shows",
-            "description" : "Download: Pikashow Movies  for Movies and TV Shows",
-            "ico2" : "https://parnamg.info/uploads/2022/07/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-pikashow-apk-download-%D9%84%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF.webp",
-            "ico" : "https://play-lh.googleusercontent.com/A58YUmZvDyAGNUxu7yRFqQhyib2Ee2g__kFlSmqhwp1I5MeV4p-2PLziLlCC8TF2qgM=w300",
-            "link" : "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow"
+            "name" : "Tag After School Pro Guide",
+            "title" : "Game",
+            "description" : "Download: Tag After School Pro Guide",
+            "ico2" : "https://techzapk.net/uploads/images/Game-2022/T12/27/tag-after-school-apk-download-for-android.jpg",
+            "ico" : "https://apkrabi.com/uploads/2022/11/tag-after-school-icon.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tag.after.school.mod"
         }
 
     ],
