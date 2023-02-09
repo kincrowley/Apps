@@ -3,7 +3,7 @@
         {
             "int_interval" : 3,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "291cdf9c-1e6e-4d84-a264-5d5afeff8622",
             "network" : "fan",
 
@@ -105,12 +105,12 @@
 
     "custom" : [
           {
-            "name" : "Tag After School Pro Guide",
-            "title" : "Game",
-            "description" : "Download: Tag After School Pro Guide",
-            "ico2" : "https://techzapk.net/uploads/images/Game-2022/T12/27/tag-after-school-apk-download-for-android.jpg",
-            "ico" : "https://apkrabi.com/uploads/2022/11/tag-after-school-icon.jpg",
-            "link" : "https://play.google.com/store/apps/details?id=com.tag.after.school.mod"
+            "name" : "PelisPlus Movies and series TV",
+            "title" : "PelisPlus.",
+            "description" : "Download.",
+            "ico2" : "https://cp.noimgs.net/static/img/portada/639d2abcb479d.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/w8EFesftdVQN8p0hs0L_iZG1tRp-pYbCgRaLzoejfOa0fu4WfqE8Cus0h7qeaKVeB_NQ=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.peliculascine.pelisplay"
         }
 
     ],
