@@ -2,7 +2,7 @@
     "config" : [
         {
             "int_interval" : 3,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "custom_banner" : "false",
             "one_signal" : "291cdf9c-1e6e-4d84-a264-5d5afeff8622",
             "network" : "fan",
@@ -31,8 +31,8 @@
             "fan_native": "838161380580987_838162307247561",
             "fan_int": "838161380580987_838162190580906",
             
-            "activate_update_app": "false",
-            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+            "activate_update_app": "true",
+            "update_link": "https://play.google.com/store/apps/details?id=com.inat.playbox.indirtv"
         }
     ],
     
